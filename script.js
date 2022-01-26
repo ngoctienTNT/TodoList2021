@@ -47,11 +47,11 @@ document.getElementById('todo4').onclick = function(e)
 
   if (this.checked)
   {
-    textTodo.innerHTML = "<del>Giảm</del> béo thành công 5kg";
+    textTodo.innerHTML = "<del>Hết</del> nợ 100 triệu";
   }
   else
   {
-    textTodo.innerHTML = "Giảm béo thành công 5kg";
+    textTodo.innerHTML = "Hết nợ 100 triệu";
   }
 }
 
